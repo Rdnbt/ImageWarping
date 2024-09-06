@@ -16,3 +16,5 @@ This repository involves python program that image process the image/video into 
 Dependencies:
 
 Test
+
+# Julian made some changes
